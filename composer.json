@@ -8,7 +8,7 @@
     "homepage": "http://nivo.dev7studios.com/",
     "require": {
         "php": ">=5.3.3",
-        "webino/webino-zf1composer-installer": "dev-master",
+        "webino/webino-zf1-composer-installer": "dev-master",
         "webino/webino-zf1-base": "dev-master"
     },
     "extra": {
