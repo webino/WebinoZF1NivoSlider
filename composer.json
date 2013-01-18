@@ -1,6 +1,6 @@
 {
     "name": "webino/webino-zf1-nivo-slider",
-    "description": "Nivo Slider module for Webino ZF1.",
+    "description": "Nivo Slider module for Webino ZF1",
     "type": "webino-module",
     "keywords": [
         "zf1", "webino", "nivo", "slider"
@@ -10,10 +10,5 @@
         "php": ">=5.3.3",
         "webino/webino-zf1-composer-installer": "dev-master",
         "webino/webino-zf1-base": "dev-master"
-    },
-    "extra": {
-        "webino-module": {
-            "common": "webinozf1nivoslider"
-        }
     }
 }
